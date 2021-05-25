@@ -1,0 +1,77 @@
+.AddArticleButton {
+    box-shadow: 3px 3px #547393;
+}
+.main{
+    height: 100%;
+
+}
+.Header {
+    box-shadow: 3px 3px #ccc;
+    border-radius: 5px;
+    padding: 12px 0px 0px 12px;
+}
+body{
+    min-height: 100vh;
+    height: 100%;
+    background-image: url('../assets/img/bg.png');
+    background-size: cover;
+
+}
+#root{
+    height: 100%;
+}
+.ShowArticlesButton {
+    box-shadow: 3px 3px #547393;
+}
+.top-card{
+   padding-top: 30px;
+   font-weight: 700;
+   font-size: 21px;
+   color: wheat;
+}
+.top-card-text{
+    color: #e7e7e7;
+    height: 300px;
+    vertical-align: middle;
+    padding-top: 15vh;
+    font-weight: 500;
+    font-size: 36px;
+}
+.leaflet-container{
+    width: 100%;
+    height: 700px;
+}
+.row{
+    margin:0px!important;
+}
+body {
+    margin: 0px;
+  }
+  
+  .info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+  }
+  
+  .info h4 {
+    margin: 0 0 5px;
+    color: #777;
+  }
+  
+  .legend {
+    text-align: left;
+    line-height: 18px;
+    color: #555;
+  }
+  
+  .legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+  }
